@@ -18,4 +18,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için.
 
 ## License 
 
-[MIT](https://github.com/akkurt25/kodluyoruzilkrepo.git) 
+[MIT](https://choosealicense.com/licenses/mit/) 
